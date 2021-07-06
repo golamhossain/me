@@ -1,0 +1,64 @@
+body{
+  font-family: 'Teko', sans-serif;
+  margin: 0%;
+}
+h1{
+  font-size: 50px;
+}
+.orange-color{
+  color: orange;
+}
+h2{
+  font-size:40px ;
+}
+.flexible-container{
+  display: flex;
+  margin-bottom: 150px;
+}
+.half-width{
+width: 50%;
+padding-left: 10%;
+}
+.half-width img{
+  width: px;
+  max-width: 100%;
+}
+.link-button{
+  text-decoration: none;
+  background-image:linear-gradient(rgb(21, 52, 194),rgb(197, 218, 12));
+  padding: 10px 40px;
+  color: white;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.manis-item{
+  width: 40%;
+  margin-top: 5%;
+  border-radius: 8%;
+  padding-left: 2%;
+  box-shadow: 10px 10px 20px grey;
+}
+#web-golam-ex{
+  border-left: 7px solid;
+  
+}
+#hossain-exweb{
+  border-left: 7px solid;
+}
+#web-rafi-ex{
+  border-left: 7px solid;
+}
+
+
+
+
+footer p {
+  text-align:center ;
+}
+.manis-item img{
+  width: 95%;
+}
+
+  
+
+
